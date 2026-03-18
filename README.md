@@ -1,7 +1,7 @@
 ## Frequently Asked Questions (FAQ)
 
 ### Q: What is the link between the GEMS project and Global Methane Genetics (GMG)?
-**A:** Both projects focus on methane mitigation data, but with different scopes. The GEMS project is funded to concentrate on historical data, while GMG focuses on future data collection. To avoid duplication, save effort, and improve the efficiency of global methane mitigation efforts, GEMS participants are also offered the opportunity to link their data to GMG and join its data usage framework (data exchange standard). More information can be found [here](https://github.com/gems-project/Invitation-to-Contribute-Additional-Data/tree/main).
+**A:** Both projects focus on methane mitigation data, but with different scopes. The GEMS project is funded to concentrate only on historical data, while GMG mainly focuses on future data collection. To avoid duplication, save effort, and improve the efficiency of global methane mitigation efforts, GEMS participants are also offered the opportunity to link their data to GMG and join its data usage framework (data exchange standard). More information can be found [here](https://github.com/gems-project/Invitation-to-Contribute-Additional-Data/tree/main).
 
 ---
 
